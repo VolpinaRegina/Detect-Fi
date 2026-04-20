@@ -1,6 +1,6 @@
 # Detect-Fi
-(V2 available)
 WiFi devices distance detector
+(V2 available)
 
 While on monitor mode your chosen wireless interface can sniff every frame that comunicates via 802.11 protocol, this tool logs unique devices based on their MAC address and via technical infos given from the antenna itself it can calculate the relative distance of each device using the Free Space Path Loss formula.
 
