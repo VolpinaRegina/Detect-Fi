@@ -4,6 +4,14 @@ WiFi devices distance detector
 
 While on monitor mode your chosen wireless interface can sniff every frame that comunicates via 802.11 protocol, this tool logs unique devices based on their MAC address and via technical infos given from the antenna itself it can calculate the relative distance of each device using the Free Space Path Loss formula.
 
+v2.1 without config file
+<img width="1308" height="539" alt="v2 1-no-config" src="https://github.com/user-attachments/assets/05e80a37-df75-47b1-9f48-1180c11360d8" />
+
+v2.1 with config file excluding unknown devices
+<img width="1223" height="470" alt="v2 1-config-ignore-unknown" src="https://github.com/user-attachments/assets/7c913e28-cbc8-4af2-bbae-524994cd7ffe" />
+
+
+
 ---
 ### Use cases
 [*] Environment: office
